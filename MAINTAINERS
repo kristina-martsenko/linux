@@ -3834,6 +3834,15 @@ S:	Maintained
 F:	include/linux/platform_data/video-imxfb.h
 F:	drivers/video/fbdev/imxfb.c
 
+FREESCALE MXS LRADC DRIVER
+M:	someone <someone@email.com>
+L:	linux-iio@vger.kernel.org
+S:	Maintained
+F:	drivers/mfd/mxs-lradc-mfd.c
+F:	drivers/iio/adc/mxs-lradc-adc.c
+F:	drivers/input/touchscreen/mxs-lradc-ts.c
+F:	include/linux/mfd/mxs-lradc.h
+
 FREESCALE SOC FS_ENET DRIVER
 M:	Pantelis Antoniou <pantelis.antoniou@gmail.com>
 M:	Vitaly Bordug <vbordug@ru.mvista.com>
